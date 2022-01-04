@@ -31,4 +31,4 @@ python ryuryuBMI 200 1.65
 ```
 
 ## TODO
-* Adding the <i>british way to check BMI</i>port
+* Adding the <i>british way to check BMI</i> support
