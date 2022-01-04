@@ -34,7 +34,7 @@ python ryuryuBMI.py 75 1.79
 
 A fictive one
 ```
-python ryuryuBMI 200 1.65
+python ryuryuBMI 200 1.65 /lbs
 ```
 
 ## TODO
