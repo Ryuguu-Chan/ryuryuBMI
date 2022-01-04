@@ -10,6 +10,10 @@ All you need is a Command Interpreter (Linux's Terminal or the Windows's CMD) an
 python ryuryuBMI.py [your weight in kg] [your height by m]
 ```
 
+## <i>Hey! on what does your BMI measure is based on *angry emoji*</i>
+It's based on this chart (found on the following link : https://cansa.org.za/files/2020/02/BMI-table-for-LRAT.jpg)
+
+
 ## Examples
 
 (mine :P)
