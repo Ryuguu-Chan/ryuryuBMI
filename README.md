@@ -1,6 +1,10 @@
 # ryuryuBMI
 A simple Python script that will tell you your health state by using your BMI
 
+# WARNING
+The BMI is only used to <strong>speculate</strong> your overall health.
+Thus not counting all the health-related activities (like Workout, Bodybuilding and other...)
+
 ## How to use it
 It's easy!
 
